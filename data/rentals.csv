@@ -1,1 +1,5 @@
 date,area,new_rental_listings,median_rent_2br,median_rent_3br,median_rent_ppsf,rental_dom,concessions_noted,gross_yield_est,rent_vs_own_gap,source,as_of
+2026-06-12,carmel_valley,,3920,4846,,,no,5.5,,"Zumper (all-type median $3850 Feb-26); Apartments.com 2BR/3BR avgs; TH examples $3999-$4600","Feb-Jun 2026"
+2026-06-12,utc,,3195,,,,no,6.1,-805,"Zumper all-type median Mar-26 (+2% YoY); yield vs $630K Q1 condo median; own($630K @6.57 +HOA) ~ $4000/mo","Mar 2026"
+2026-06-12,arcola,,,3290,1.48,,no,5.8,-900,"Redfin rental example 3BR/2.5BA 2216sqft Stone Ridge TH; yield vs $676K pending median; own($676K @6.57) ~ $4190/mo","Jun 2026"
+2026-06-12,oakton_hs,,,,,,,,,"Insufficient area-specific data today; Vienna/Oakton rental medians to be pulled next run","Jun 2026"
