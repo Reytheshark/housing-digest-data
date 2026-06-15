@@ -3,3 +3,7 @@ date,area,new_rental_listings,median_rent_2br,median_rent_3br,median_rent_ppsf,r
 2026-06-12,utc,,3195,,,,no,6.1,-805,"Zumper all-type median Mar-26 (+2% YoY); yield vs $630K Q1 condo median; own($630K @6.57 +HOA) ~ $4000/mo","Mar 2026"
 2026-06-12,arcola,,,3290,1.48,,no,5.8,-900,"Redfin rental example 3BR/2.5BA 2216sqft Stone Ridge TH; yield vs $676K pending median; own($676K @6.57) ~ $4190/mo","Jun 2026"
 2026-06-12,oakton_hs,,,,,,,,,"Insufficient area-specific data today; Vienna/Oakton rental medians to be pulled next run","Jun 2026"
+2026-06-15,carmel_valley,,3284,4846,,,no,5.5,,"Zumper Feb-26 all-type $3850 (-5% last month +2% YoY); 1BR $3284. Yield vs ~$835K typical ask; own cost >$5800/mo.","Feb-Jun 2026"
+2026-06-15,utc,,3195,,,,no,6.1,-805,"Zumper Mar-26 all-type $3195 (+2% YoY); yield vs $630K Q1 condo; own($630K@6.53%+HOA$300)~$4000/mo","Mar 2026"
+2026-06-15,arcola,3,,3400,1.30,,no,6.8,-794,"First 20166 data point (Arcola Town Center). 24663 Red Lake Ter $3400/mo 3br/3.5ba/3042sqft; Elms Arcola $2240-4583. Yield vs $600K scope mid; own($600K@6.53%+$351 HOA)~$4194/mo","Jun 2026"
+2026-06-15,oakton_hs,,3200,3750,,,no,,,"Limited 22124/22181 data; Vienna Metro 3BR TH est $3500-4000; 2BR condo est $3200-3500. Need Zumper/Zillow zip-level pull.","Jun 2026"
