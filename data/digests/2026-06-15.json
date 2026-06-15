@@ -1,10 +1,4 @@
 {
-  "date": "2026-06-15",
-  "day_of_week": "Monday",
-  "timezone": "UTC",
-  "created_by": "Jinhong Wu",
-  "created_at": "2026-06-15T20:33:00Z",
-  "digest_entries": [],
-  "summary": "",
-  "notes": ""
+  "_stale_artifact": true,
+  "note": "STALE ARTIFACT — created by a failed write attempt on 2026-06-15. Not a valid digest. Correct daily digest is at digests/daily/2026-06-15.md. Safe to delete."
 }
